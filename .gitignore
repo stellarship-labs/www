@@ -1,0 +1,20 @@
+# Dependencies and build output
+node_modules/
+dist/
+
+# Environment and secrets
+.env
+.env.*
+
+# Astro / Vercel (kept for the previous app and any future tooling)
+.astro/
+.vercel/
+
+# Logs
+*.log
+
+# OS and editor junk
+.DS_Store
+Thumbs.db
+.idea/
+*.swp
